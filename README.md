@@ -13,7 +13,7 @@ A simple movie search app built using React + Redux Toolkit + OMDb API.
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/iamalokkumar/-Movie-Search-App-Redux-.git>
 cd movie-search-app
 npm install
 npm start
